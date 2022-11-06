@@ -1,2 +1,2 @@
 # First_repository
-This is my first time doing this
+Some of the projects I've done are predictions, time series, and visualization of data.
